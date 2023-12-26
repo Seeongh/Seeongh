@@ -13,14 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=wave&color=f2cec2&height=120&text=Welcome%20to%20%20Seeongh's%20Repository&animation=&fontColor=ffffff&fontSize=40" />
+    <!--<img src="https://capsule-render.vercel.app/api?type=wave&color=f2cec2&height=120&animation=&fontColor=ffffff&fontSize=40" />-->
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Backend 개발 꿈나무 </h2>  
+    <h3 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">  Seeonh's Repository</h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> <li> 어제보다 성장합니다.</li><li> 내 기술로 동료들과 사용자들이 더 편해지도록 늘 고민하는 개발자가 되고 싶습니다. </div> 
     </div>
     <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
+    <h3 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h3> <br> 
     <div  align= "center"> <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=white">
           <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">
           <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
@@ -43,14 +43,14 @@ Here are some ideas to get you started:
           </div>
     </div>
     <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🌱 Current leaning </h2> <br> 
+    <h3 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🌱 Current leaning </h3> <br> 
     <div  align= "center"> 
           <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
           <img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white">
           </div>
     </div>
     <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
+    <h3 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h3> <br> 
     <div align= "center"> <a href=https://amusing-clipper-968.notion.site/BACK-END-DIVE-f8ec9cb6c7bc48a1bc0565574a3d91f2> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://amusing-clipper-968.notion.site/BACK-END-DIVE-f8ec9cb6c7bc48a1bc0565574a3d91f2"> </a>
          <a href=mailto:mikstic7@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mikstic7@gmail.com"> </a>
           </div>  <br> 
