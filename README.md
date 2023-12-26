@@ -17,7 +17,7 @@ Here are some ideas to get you started:
     </div>
     <div style="text-align: left;"> 
     <h3 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">  Seeonh's Repository</h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> <li> 어제보다 성장합니다.</li><li> 내 기술로 동료들과 사용자들이 더 편해지도록 늘 고민하는 개발자가 되고 싶습니다. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> <li> 어제보다 성장합니다.</li><li>동료들과 사용자들이 더 편해지도록 늘 고민하는 개발자가 되고 싶습니다. </div> 
     </div>
     <div style="text-align: left;">
     <h3 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h3> <br> 
