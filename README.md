@@ -16,8 +16,8 @@ Here are some ideas to get you started:
     <!--<img src="https://capsule-render.vercel.app/api?type=wave&color=f2cec2&height=120&animation=&fontColor=ffffff&fontSize=40" />-->
     </div>
     <div style="text-align: left;"> 
-    <h3 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">  Seeonh's Repository</h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> <li> 어제보다 성장합니다.</li><li>동료들과 사용자들이 더 편해지도록 늘 고민하는 개발자가 되고 싶습니다. </div> 
+    <h3 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">  Seeongh's Repository</h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> <li> 더 나은 사용자 경험을 위해 성장합니다.</li><li>동료들과 사용자들이 더 편해지도록 늘 고민하는 개발자가 되고 싶습니다. </div> 
     </div>
     <div style="text-align: left;">
     <h3 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h3> <br> 
