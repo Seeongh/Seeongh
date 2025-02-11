@@ -54,12 +54,13 @@ Here are some ideas to get you started:
           </div>  <br> 
     <div align= "center">  </div> 
 </div>
-    
-<a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/Seeongh"
-    width="600"
-    height="120"
-  />
+
+
+ <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Seeongh&utm_content=farm">
+    <img
+      src="https://render.gitanimals.org/farms/Seeongh"
+      width="600"
+      height="300"
+    />
 </a>
   
